@@ -321,7 +321,8 @@ font-size: 2rem;
     #menu-bar img{
         margin: 10px;
     }
-      
+       #navbar li a:active{color: black;
+        }
         #navbar #accountIcon{
             display: none;
         }
