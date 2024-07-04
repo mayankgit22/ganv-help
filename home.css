@@ -94,7 +94,7 @@ font-weight: 400;
 }
 #problems{
     display: flex;
-    /* border: 2px solid; */
+    border: 2px solid;
     margin: 30px;
 
     justify-content: center;
